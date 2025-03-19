@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zainimuhaimin
-- 👀 I’m interested in web site developer
+- 👀 I’m interested in web site developer, mobile app develoment
+- 👾 Job Role as Back End Developer
 - 🌱 I’m currently learning php with laravel framework
 - 💞️ I’m looking to collaborate on you guys
 - 📫 How to reach me instagram zaini_muhaimin
